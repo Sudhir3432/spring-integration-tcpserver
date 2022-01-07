@@ -1,0 +1,9 @@
+com\sipl\tcp\config\TcpServerConfig$Gateway.class
+com\sipl\tcp\config\TcpServerConfig.class
+com\sipl\tcp\TcpServerSocketApplication.class
+com\sipl\tcp\config\CustomSerializerDeserializer.class
+com\sipl\tcp\controllerImpl\IntegrationControllerImpl.class
+com\sipl\tcp\controller\IntegrationController.class
+com\sipl\tcp\ServletInitializer.class
+com\sipl\tcp\service\MessageService.class
+com\sipl\tcp\serviceImpl\MessageServiceImpl.class
